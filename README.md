@@ -1,4 +1,4 @@
-# Tetrad-assignemnet
+# Tetrad-assignement
 
 	We can concur that the 1993 data (retention.txt) does support the research findings in Druzdzel & Glymour 1994
 
